@@ -4,6 +4,12 @@
 
 See the exercice folder for the code.
 
+To run the tests with Maven, move in the exercice directory and run:
+
+```
+mvn test
+```
+
 Assumptions: I only add tests on the filter method. I did not add tests on the others method, to validate negative depth for example.
 
 ## Task 2: Code Review
